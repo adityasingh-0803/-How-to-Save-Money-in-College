@@ -12,7 +12,7 @@ A single-page responsive website that visually explains practical ways college s
 
 ## 🚀 Preview
 
-![Screenshot](preview.png) <!-- Or use a Netlify-deployed screenshot URL -->
+![Screenshot](https://github.com/user-attachments/assets/1e4b9032-06a8-4347-b847-9b4bf3129c4f)
 
 ## 📂 Live Demo
 
