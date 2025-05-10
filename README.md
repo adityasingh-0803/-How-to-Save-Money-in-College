@@ -16,7 +16,7 @@ A single-page responsive website that visually explains practical ways college s
 
 ## 📂 Live Demo
 
-👉 [Live on Netlify](https://your-netlify-link.netlify.app)  
+👉 [Live on Netlify](https://savemoneyforclg.netlify.app/)  
 👉 [Project on Inovact Social](https://www.inovact.in/your-project-link)
 
 ## 🛠️ Built With
